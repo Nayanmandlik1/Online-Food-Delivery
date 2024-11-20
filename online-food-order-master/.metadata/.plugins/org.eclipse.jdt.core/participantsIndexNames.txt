@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+F:\online-food-order-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\769772616.index
+\online-food-order\src\main\resources
+F:\online-food-order-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2683321449.index
+\online-food-order\src\main\resources
